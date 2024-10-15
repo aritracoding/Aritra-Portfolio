@@ -1,4 +1,4 @@
-# Hello I'm Soumyadri
+# Hello I'm Aritra
 
 Hello, My name is Soumyadri Das. I am highly interested in the IT industry and exploring its different opportunities. Currently I'm learning about Data Structures & Algorithm. I also have good ammount of expertise in MERN (MongoDB, ExpressJS, ReactJS, NodeJS) stack. To know more, check my portfolio website - https://soumyadri-das.vercel.app/
 
@@ -18,6 +18,6 @@ At its most basic form, a portfolio website provides professional information ab
    * Clone the source code from - https://github.com/soumyadri/soumyadri-portfolio
    * Run the command  **npm i** (To install the necessary package)
 
-## Snapshot
 
-![portfolio](https://github.com/soumyadri/soumyadri-portfolio/blob/master/src/Images/portfolio1.png)
+
+
